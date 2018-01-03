@@ -22,21 +22,24 @@ Tieto-ja viestintätekniikka, Ohjelmistotekniikka
 
 
 ### Landis+Gyr
+
 Paikallisjohtajan  kiireapulainen	02.06.2014-30.06.2014	
 Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
 
 
 ### Ixonos Oyj
+
 Paikallisjohtajan  kiireapulainen	02.06.2014-30.06.2014	
 Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
 
-### Ixonos Oyj
+
 Paikallisjohtajan  kiireapulainen	15.06.2015-10.07.2015
 Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja toimistokalusteiden inventaariota ja myyntiä.
 
-### Ixonos Oyj
+
 Paikallisjohtajan  kiireapulainen	17.08.2015-31.08.2015
 Tiloista muutto ja muuta siihen liittyvää.	
+
 
 ### Sumiaisten Seurakunta
 Tiekirkko-opas	Kesäkuu–> Heinäkuu  2013-2015
