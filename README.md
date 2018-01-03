@@ -23,8 +23,8 @@ Tieto-ja viestintätekniikka, Ohjelmistotekniikka
 
 ### Landis+Gyr
 
-Paikallisjohtajan  kiireapulainen	02.06.2014-30.06.2014	
-Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
+Summer Trainee -> Trainee	01.07.2017-
+Mekaniikkasuunnittelu, 3d-mallinnus, 3d-tulostus, elektroniikka, sulautetut järjestelmät
 
 
 ### Ixonos Oyj
