@@ -25,22 +25,24 @@ Tieto-ja viestintätekniikka, Ohjelmistotekniikka
 
 Summer Trainee -> Trainee	01.07.2017-
 
-
-Mekaniikkasuunnittelu, 3d-mallinnus, 3d-tulostus, elektroniikka, sulautetut järjestelmät
+- Mekaniikkasuunnittelu, 3d-mallinnus, 3d-tulostus, elektroniikka, sulautetut järjestelmät
 
 
 ### Ixonos Oyj
 
 Paikallisjohtajan  kiireapulainen	02.06.2014-30.06.2014	
-Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
+
+- Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
 
 
 Paikallisjohtajan  kiireapulainen	15.06.2015-10.07.2015
-Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja toimistokalusteiden inventaariota ja myyntiä.
+
+- Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja toimistokalusteiden inventaariota ja myyntiä.
 
 
 Paikallisjohtajan  kiireapulainen	17.08.2015-31.08.2015
-Tiloista muutto ja muuta siihen liittyvää.	
+
+- Tiloista muutto ja muuta siihen liittyvää.	
 
 
 ### Sumiaisten Seurakunta
