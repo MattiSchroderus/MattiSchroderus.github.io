@@ -1,6 +1,8 @@
 # Matti Schroderus
 
-![Image](naama.jpg | width=100)
+![Image](naama.jpg)
+
+<img src="naama.jpg" width="48">
 
 ## Opinnot
 
