@@ -13,7 +13,7 @@ Kirjoittanut: Fysiikka (C) Pitkä matematiikka (M)  Englanti (E)
 
 
 
-### Jyväskylän Ammattikorkeakoulu JAMK          Insinööri (AMK)          2012-2015      
+### Jyväskylän Ammattikorkeakoulu JAMK          Insinööri (AMK)          2015-      
 Tieto-ja viestintätekniikka, Ohjelmistotekniikka
 
 
@@ -21,10 +21,32 @@ Tieto-ja viestintätekniikka, Ohjelmistotekniikka
 ## Työkokemus
 
 
+### Landis+Gyr
+Paikallisjohtajan  kiireapulainen	02.06.2014-30.06.2014	
+Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
+
 
 ### Ixonos Oyj
 Paikallisjohtajan  kiireapulainen	02.06.2014-30.06.2014	
 Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
+
+### Ixonos Oyj
+Paikallisjohtajan  kiireapulainen	15.06.2015-10.07.2015
+Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja toimistokalusteiden inventaariota ja myyntiä.
+
+### Ixonos Oyj
+Paikallisjohtajan  kiireapulainen	17.08.2015-31.08.2015
+Tiloista muutto ja muuta siihen liittyvää.	
+
+### Sumiaisten Seurakunta
+Tiekirkko-opas	Kesäkuu–> Heinäkuu  2013-2015
+
+### Sumiaisten 4H
+Taimien pakkaaminen	11.05.2015 – 05.06.2015
+Nurmikon leikkaaminen	Kesä 2013, kesä 2014
+
+### Äänekosken kaupunki
+Puistotyöntekijä Kesä 2013
 
 ## Kielet
 You can use the [editor on GitHub](https://github.com/MattiSchroderus/MattiSchroderus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
