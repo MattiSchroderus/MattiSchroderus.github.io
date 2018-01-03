@@ -2,7 +2,7 @@
 
 
 
-<img src="naama.jpg" width="350">
+<img src="naama.jpg" width="200">
 
 ## Opinnot
 
