@@ -1,5 +1,20 @@
-## Matti Schroderus
+# Matti Schroderus
 
+## Opinnot
+
+### Äänekosken Lukio          Ylioppilas          2012-2015      
+Kirjoittanut: Fysiikka (C) Pitkä matematiikka (M)  Englanti (E)
+
+### Jyväskylän Ammattikorkeakoulu JAMK          Insinööri (AMK)          2012-2015      
+Tieto-ja viestintätekniikka, Ohjelmistotekniikka
+
+## Työkokemus
+
+### Ixonos Oyj
+Paikallisjohtajan  kiireapulainen	02.06.2014-30.06.2014	
+Ohjelmistotestaus, työpisteiden suunnittelu ja toteutus, tietokoneiden ja muun tavaran inventaariota.	
+
+## Kielet
 You can use the [editor on GitHub](https://github.com/MattiSchroderus/MattiSchroderus.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
