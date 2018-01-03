@@ -1,6 +1,6 @@
 # Matti Schroderus
 
-![Image](naama.jpg)
+![Image](naama.jpg | width=100)
 
 ## Opinnot
 
