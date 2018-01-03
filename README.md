@@ -23,7 +23,7 @@ Tieto-ja viestintätekniikka, Ohjelmistotekniikka
 
 ### Landis+Gyr
 
-Summer Trainee -> Trainee	01.07.2017-
+Summer Trainee -> Trainee	01.06.2017-
 
 - Mekaniikkasuunnittelu, 3d-mallinnus, 3d-tulostus, elektroniikka, sulautetut järjestelmät.
 
